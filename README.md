@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Towards Intrinsic Geospatial Topological Reasoning in Large Language Models</h1>
+<h1>Evaluating Intrinsic Geospatial Topological Reasoning in LLMs</h1>
 
 <div> 
 
